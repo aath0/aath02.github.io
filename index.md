@@ -1,5 +1,5 @@
 ---
-layout: about_intro
+layout: about
 title: Home
 ---
 
