@@ -3,6 +3,9 @@ layout: about
 title: Home
 ---
 
+## Athina Tzovara
+---
+
 ![Photo](https://raw.githubusercontent.com/aath0/aath0.github.io/master/mm.jpeg){:style="float:left; margin: 0px 0px;"}
 
 I am a cognitive neuroscientist studying the neural mechanisms that allow us to perceive our environment. 
