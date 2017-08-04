@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Blog
-slug: blog
+slug: blog2
 menu: true
 order: 2
 description: > Recent blog posts
