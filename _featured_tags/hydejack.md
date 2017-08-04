@@ -1,9 +1,9 @@
 ---
 layout: list
-title: CV
-slug: cv
+title: CV2
+slug: cv2
 menu: true
-order: 2
+order: 4
 ---
 
 ## Education
