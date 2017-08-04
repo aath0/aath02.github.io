@@ -5,81 +5,24 @@ menu: true
 order: 3
 ---
 
-## Hydejack
-Hydejack is a cutting-edge Jekyll theme that combines the best of static sites and modern web apps. It features a suite of JavaScript that makes the page feel like an app, without sacrificing backwards-compatibility, page-load speed or SEO.
+I am a cognitive neuroscientist studying the neural mechanisms that allow us to perceive our environment. 
+	I am particularly interested on how we extract regularities and statistical rules from sensory stimuli, according to our
+		levels of <a href="http://www.mitpressjournals.org/doi/abs/10.1162/jocn_a_00835?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed#.WRtlJxOGPOQ">attention</a>
+		or <a href="https://academic.oup.com/brain/article-lookup/doi/10.1093/brain/awv041">awareness</a>. 
+		
+		
+		
+To study human cognition, I am using imaging (<a href = "http://www.tandfonline.com/doi/abs/10.1080/87565641.2011.636851">EEG</a>, MEG, ECoG, fMRI) and psychophysiological techniques (skin conductance, <a href = "http://onlinelibrary.wiley.com/doi/10.1111/psyp.12801/full">pupil size</a>, <a href = "http://onlinelibrary.wiley.com/doi/10.1111/psyp.12775/full">startle responses</a>), in combination with <a href = "http://www.sciencedirect.com/science/article/pii/S0031320311001440">machine learning</a> and modeling approaches. My goal is to characterise neural and computational mechanisms which allow typical individuals to perceive their environment and, ultimately, to examine how these are disrupted in patients with disorders of consciousness.
 
-> Your presence on the web --- A [blog], a [portfolio] and a [resume].
-{:.lead}
+Currently, I am working as a postdoctoral researcher at the University of Zurich, Switzerland and I am affiliated to the 
+<a href ="http://www.neuroscience.uzh.ch/en.html">Neuroscience Centre Zurich</a>. Additionally, I am teaching in summer schools for women in <a href = "https://www.ingenieurinnen-sommeruni.de/en/summer2017/index.php">engineering</a> and <a href = "https://www.informatica-feminale.de/eng/home-en/">informatics</a> at the University of Bremen, Germany.
+In all my research and teaching activities I try to create an inclusive environment and enhance the visibility of under-represented minorities in academia.
 
-It aims to be the complete package for professionals on the web. It features a blog suitable for both prose and technical documentation, a showcase for projects and a resume that fits with the rest of the design.
+For additional information please check:
 
-Open `about.md` to edit this text.
+* my publications on <a href = "https://scholar.google.ch/citations?user=XdOdIKYAAAAJ&hl=en">Google scholar</a> or 
+			<a href = "http://orcid.org/0000-0002-7588-1418?lang=en">ORCiD</a>
+			
+* some of my badly commented code on <a href = "https://github.com/aath0">Github</a>
 
-### Features
-Both the PRO *and* free version includes all of the features listed below:
-
-* Full in-app page loading --- no Flash of White, no Flash of Unstyled Content[^1]
-* Advanced animations, inspired by Material Design
-* A customizable sidebar that turns into a touch-enabled app drawer on mobile
-* Near-perfect [Google PageSpeed Score](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fqwtel.com%2Fhydejack%2F)[^2]
-* Even higher *perceived speed* thanks to pre-fetching and latency-hiding
-* Support for categories and tags --- even when hosting on GitHub Pages
-* Built-in collection of social media icons
-* Author section below each article and multiple authors
-* Simple and semantic HTML --- can be viewed even with text-based browsers
-* Progressive enhancement --- sacrifice features, not content
-* Google Analytics and Google Fonts support
-* Blog layout with pagination
-* Syntax highlighting
-* Math formulas via LaTeX
-* Disqus comments
-* RSS feed
-* Print layout
-
-Open `about.md` to edit this text.
-
-### [Documentation][docs]{:data-flip="title"}
-Hydejack is documented extensively.
-You can read it [on this site][docs], in the [repository's wiki][wiki], or [download the PDF][download].
-
-Open `about.md` to edit this text.
-
-### Download
-There are two versions of Hydejack: The Free Version includes basic blogging functionality,
-as did previous versions of the theme.
-The new PRO Version includes additional features for professionals:
-A [portfolio], a [resume] layout and a [welcome] page to feature your favorite projects and posts.
-
-This table details what is and isn't included in each respective version.
-
-|                                  | Free               | PRO                |
-|:---------------------------------|:------------------:|:------------------:|
-| Blog                             | &#x2714;           | &#x2714;           |
-| Features (see below)             | &#x2714;           | &#x2714;           |
-| [Portfolio] Layout               |                    | &#x2714;           |
-| [Resume] Layout                  |                    | &#x2714;           |
-| [Welcome] Layout                 |                    | &#x2714;           |
-| License                          | [MIT][license]     | [PRO]              |
-| Price                            | Free               | $34                |
-| | [**Download on GitHub**][download]<br/> -- or -- <br/>[**Use the RubyGem**][gem] | [**Buy Now – $34**][buy][^3] |
-
-Open `about.md` to edit this text.
-
-[^1]: Applies after the initial page load.  
-[^2]: Actual page load speed depends on your hosting provider as well as discipline regarding resolution of images and usage of 3rd party plugins.
-[^3]: Transactions secured by [Stripe](https://stripe.com). Downloads handled by [Simple Goods](https://simplegoods.co/).
-
-[blog]: https://qwtel.com/hydejack/blog/
-[portfolio]: https://qwtel.com/hydejack/projects/
-[resume]: https://qwtel.com/hydejack/resume/
-[welcome]: https://qwtel.com/hydejack/
-
-[docs]: docs/6.5.0/index.md
-[license]: LICENSE.md
-[pro]: licenses/PRO-license.md
-
-[download]: https://github.com/qwtel/hydejack/releases/tag/v6.5.0
-[gem]: https://rubygems.org/gems/jekyll-theme-hydejack/versions/6.5.0
-[buy]: https://app.simplegoods.co/i/AQTTVBOE
-
-[wiki]: https://github.com/qwtel/hydejack/wiki
+* the books that I'm reading on <a href = "https://www.goodreads.com/user/show/3614063-athina">Goodreads</a>
