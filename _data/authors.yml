@@ -21,7 +21,7 @@ ath:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    facebook:        athina.tzovara
+    # facebook:        
     twitter:         aath0
     # google:          <number>
     # vk:              <username>
@@ -57,7 +57,7 @@ ath:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           mailto:<athina.tz@gmail.com>
-    rss:             https://<url>/feed.xml
+   # rss:             https://<url>/feed.xml
 
   image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==' # http://jsfiddle.net/LPxrT/
   color: '#268bd2'
