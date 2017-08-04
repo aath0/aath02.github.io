@@ -3,10 +3,9 @@ layout: about
 title: Home
 ---
 
+![Photo](https://raw.githubusercontent.com/aath0/aath0.github.io/master/mm.jpeg){:style="float:right; margin: 0px 0px;"}
 ## Athina Tzovara
 ---
-
-![Photo](https://raw.githubusercontent.com/aath0/aath0.github.io/master/mm.jpeg){:style="float:left; margin: 0px 0px;"}
 
 I am a cognitive neuroscientist studying the neural mechanisms that allow us to perceive our environment. 
 	I am particularly interested on how we extract regularities and statistical rules from sensory stimuli, according to our
