@@ -5,6 +5,10 @@ menu: true
 order: 3
 ---
 
+![Photo](https://raw.githubusercontent.com/aath0/aath0.github.io/master/mm.jpeg){:style="float:right; margin: 0px 0px;"}
+## Athina Tzovara
+---
+
 I am a cognitive neuroscientist studying the neural mechanisms that allow us to perceive our environment. 
 	I am particularly interested on how we extract regularities and statistical rules from sensory stimuli, according to our
 		levels of <a href="http://www.mitpressjournals.org/doi/abs/10.1162/jocn_a_00835?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed#.WRtlJxOGPOQ">attention</a>
