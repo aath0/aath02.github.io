@@ -1,5 +1,5 @@
 ---
-layout: CV
+layout: about
 title: CV
 menu: true
 order: 2
