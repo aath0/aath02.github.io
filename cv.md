@@ -2,7 +2,7 @@
 layout: about
 title: CV
 menu: true
-order: 2
+order: 3
 ---
 
 
