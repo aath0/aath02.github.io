@@ -2,7 +2,7 @@
 layout: about
 title: About
 menu: true
-order: 3
+order: 4
 ---
 
 I am a cognitive neuroscientist studying the neural mechanisms that allow us to perceive our environment. 
