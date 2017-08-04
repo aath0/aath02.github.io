@@ -5,7 +5,6 @@ slug: cv
 menu: true
 order: 2
 description: >
----
 
 ## Education
 2009 - 2013: PhD in Neuroscience, [Lemanic Neuroscience Doctoral School](http://unil.ch/ln/home.html), University of Lausanne, Switzerland.
@@ -53,4 +52,5 @@ description: >
 ## Contact me
 
 [Email](mailto:athina.tz@gmail.com)
+---
 
