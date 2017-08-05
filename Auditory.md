@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Extraction of statistical regularities
+title: Regularity extraction
 menu: true
 order: 2
 ---
