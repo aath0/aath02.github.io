@@ -14,4 +14,11 @@ Studying neural responses to external stimuli through EEG typically requires ave
 
 *Tzovara et al., 2012, Pattern Recognition, [doi: 10.1016/j.patcog.2011.04.007](https://doi.org/10.1016/j.patcog.2011.04.007)*
 
+### Representative publications
 
+* Tzovara A, Murray MM, Michel CM, De Lucia M. (2012) A tutorial review of electrical neuroimaging from group-average to single-trial event-related potentials. Developmental Neuropsychology. 37(6):518-44.
+
+* Tzovara A, Murray MM, Plomp G, Herzog MH, Michel CM, De Lucia M. (2012) Decoding stimulus-related information from single-trial EEG responses based on voltage topographies. Pattern Recognition. 45( 6): 2109–2122.
+2011
+
+* De Lucia M, Tzovara A. (2015) Decoding auditory EEG responses in healthy and clinical populations: A comparative study. J Neurosci Methods. 250:106-13.
