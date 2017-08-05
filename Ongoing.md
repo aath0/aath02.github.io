@@ -1,12 +1,8 @@
-
 ---
 layout: about
 title: Ongoing projects
 menu: true
-order: 2
----
-
-
+order: 3
 ---
 
 ## Ongoing projects
