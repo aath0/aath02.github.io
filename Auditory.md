@@ -2,7 +2,7 @@
 layout: about
 title: Regularity extraction
 menu: true
-order: 2
+order: 1
 ---
 ## Extraction of auditory regularities
 
