@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Regularity extraction
+title: Auditory regularities
 menu: true
 order: 1
 ---
