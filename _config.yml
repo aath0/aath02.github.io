@@ -25,7 +25,7 @@ author:
   email:             <athina.tz@dgmail.com>
 
 # Fallback image and color
-image:               /hydejack/assets/img/nap.jpg
+image:               https://raw.githubusercontent.com/aath0/aath01.github.io/master/images/op.jpg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
