@@ -1,8 +1,7 @@
 ---
-layout: about
-title: Ongoing projects
-menu: true
-order: 3
+layout: post
+title: "Ongoing projects"
+tags: [research2]
 ---
 
 ## Ongoing projects
