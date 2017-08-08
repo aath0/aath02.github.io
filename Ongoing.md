@@ -1,7 +1,8 @@
 ---
 layout: about
 title: "Ongoing projects"
-tags: [research2]
+menu: true
+order: 3
 ---
 
 ## Ongoing projects
