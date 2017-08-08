@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: about
 title: "Ongoing projects"
 tags: [research2]
 ---
