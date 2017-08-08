@@ -10,9 +10,9 @@ order: 2
 
 Studying neural responses to environmental stimuli through electroencephalography (EEG), typically requires averaging hundrents or thousands of single-trial responses, and contrasting them at single electrode locations. During my PhD, I used multivariate techniques to model the distribution of single-trial EEG responses across the scalp, and extract topographic EEG responses in a data-driven way. This technique can be used to model data at the [single-patient](http://www.sciencedirect.com/science/article/pii/S0165027014003872) level, to decode [decisions from EEG responses](http://www.sciencedirect.com/science/article/pii/S1053811912001632), or to test the role of [temporal intervals in processing environmental stimuli](http://www.sciencedirect.com/science/article/pii/S1053811912001589). 
 
-![Single trial EEG analysis](http://ars.els-cdn.com/content/image/1-s2.0-S0031320311001440-gr1.jpg)
+![Single trial EEG analysis](https://raw.githubusercontent.com/aath0/aath0.github.io/master/topogr.jpg)
 
-*Tzovara et al., 2012, Pattern Recognition, [doi: 10.1016/j.patcog.2011.04.007](https://doi.org/10.1016/j.patcog.2011.04.007)*
+*Tzovara et al., 2012, Develop. Neuropsychology, [doi: 110.1080/87565641.2011.636851](http://dx.doi.org/10.1080/87565641.2011.636851)*
 
 ### Representative publications
 
