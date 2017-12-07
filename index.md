@@ -16,8 +16,8 @@ I am a cognitive neuroscientist studying the neural mechanisms that allow us to 
 		
 To study human cognition, I am using imaging (<a href = "http://www.tandfonline.com/doi/abs/10.1080/87565641.2011.636851">EEG</a>, MEG, ECoG, fMRI) and psychophysiological techniques (skin conductance, <a href = "http://onlinelibrary.wiley.com/doi/10.1111/psyp.12801/full">pupil size</a>, <a href = "http://onlinelibrary.wiley.com/doi/10.1111/psyp.12775/full">startle responses</a>), in combination with <a href = "http://www.sciencedirect.com/science/article/pii/S0031320311001440">machine learning</a> and modeling approaches. My goal is to characterise neural and computational mechanisms which allow typical individuals to perceive their environment and, ultimately, to examine how these are disrupted in patients with disorders of consciousness.
 
-Currently, I am working as a postdoctoral researcher at the University of Zurich, Switzerland and I am affiliated to the 
-<a href ="http://www.neuroscience.uzh.ch/en.html">Neuroscience Centre Zurich</a>. Additionally, I am teaching in summer schools for women in <a href = "https://www.ingenieurinnen-sommeruni.de/en/summer2017/index.php">engineering</a> and <a href = "https://www.informatica-feminale.de/eng/home-en/">informatics</a> at the University of Bremen, Germany.
+Currently, I am working as a postdoctoral researcher at the University of California, Berkeley, at the 
+<a href ="http://neuroscience.berkeley.edu/">Helen Wills Institute</a>. Additionally, I have been teaching in summer schools for women in <a href = "https://www.ingenieurinnen-sommeruni.de/en/summer2017/index.php">engineering</a> and <a href = "https://www.informatica-feminale.de/eng/home-en/">informatics</a> at the University of Bremen, Germany.
 In all my research and teaching activities I try to create an inclusive environment and enhance the visibility of under-represented minorities in academia.
 
 For additional information please check:
