@@ -6,7 +6,7 @@ order: 5
 ---
 
 ![Photo](https://raw.githubusercontent.com/aath0/aath0.github.io/master/AT.jpeg){:style="float:right; margin: 0px 0px;"}
-## Athina Tzovara
+## Athina Tzovara 
 ---
 
 I am a cognitive neuroscientist studying the neural mechanisms that allow us to perceive our environment. 
