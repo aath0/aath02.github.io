@@ -3,7 +3,7 @@ layout: about
 title: Home
 ---
 
-![Photo](https://raw.githubusercontent.com/aath0/aath0.github.io/master/AT.jpeg){:style="float:right; margin: 0px 0px;"}
+![Photo](https://raw.githubusercontent.com/aath0/aath0.github.io/master/AT3.jpeg){:style="float:right; margin: 0px 0px;"}
 ## Athina Tzovara
 ---
 
